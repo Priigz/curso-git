@@ -1,7 +1,8 @@
 public class hola {
 
     public static void main(String[] args) {
-        System.out.println("Hola soy Prii");
+        String string = hola;
+        System.out.println(string);
         System.out.println("Hola soy lau");
     
     }
